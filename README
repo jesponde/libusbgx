@@ -4,6 +4,7 @@ libusbg-neXt (libusbgx)
 libusbgx is a C library encapsulating the kernel USB gadget-configfs
 userspace API functionality.
 
+
 It provides routines for creating and parsing USB gadget devices using
 the configfs API. Currently, all USB gadget configfs functions that can
 be enabled in kernel release 3.11 (Linux for Workgroups!) are supported.
